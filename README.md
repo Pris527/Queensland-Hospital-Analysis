@@ -2,6 +2,11 @@
 🏥 **Queensland Emergency Care Visibility — Exploratory Data Insights**  
 **Improving decision visibility for faster emergency care in Queensland**
 
+![Status](https://img.shields.io/badge/Analysis-Complete-brightgreen)
+![Tool](https://img.shields.io/badge/SQL-BigQuery-blue)
+![Tool](https://img.shields.io/badge/Visualisation-Tableau-purple)
+![Domain](https://img.shields.io/badge/Sector-Healthcare-red)
+
 ---
 
 📌 **Project Overview — Why This Matters**
