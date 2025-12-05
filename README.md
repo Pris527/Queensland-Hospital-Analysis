@@ -174,6 +174,6 @@ README.md         → Project documentation
 
 👩🏽‍⚕️ **Author — Dr. Presca Wanki**  
 Data Analyst · Change Support · Mixed-Method Researcher  
-📍 Relocating to Brisbane QLD — January Start  
+📍 Relocating to Brisbane QLD — December 2025  
 
 Using data + human insight to strengthen public-service access and community outcomes.
