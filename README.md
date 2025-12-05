@@ -18,7 +18,7 @@ This **exploratory data analysis** reveals where and when pressures occur — an
 
 📌 The visual below illustrates consistent peak congestion during late-day hours:
 
-![Queensland_Hospitals](Hospital_Peak_times.jpeg)
+![Queensland_Hospitals](Images/Hospital_Peak_times.jpeg)
 
 A lack of timely and complete data means risks to patient experience can remain invisible until too late.
 
@@ -109,19 +109,19 @@ This analysis supports leadership decision-making by answering:
 **1️⃣ Demand Peaks Most Evenings (17:00–21:00)**  
 Staffing patterns may not reflect real-world demand.
 
-![Queensland_Hospitals](Hospital_Peak_times.jpeg)
+![Queensland_Hospitals](Images/Hospital_Peak_times.jpeg)
 
 **2️⃣ More Capacity ≠ Faster Care**  
 Internal processes drive responsiveness — not just size.
 
-![Queensland_Hospitals](capacity_delay.jpeg)
+![Queensland_Hospitals](Images/Capacity_delay.jpeg)
 
 ➡ Only ~20% of hospitals provide **complete** performance metrics → comparisons limited.
 
 **3️⃣ Reporting Gaps Hide Performance Risks**  
 Especially in regional communities.
 
-![Queensland_Hospitals](map_reporting_analysis.jpeg)
+![Queensland_Hospitals](Images/map_reporting_analysis.jpeg)
 
 ---
 
