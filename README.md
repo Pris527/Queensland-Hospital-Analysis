@@ -119,7 +119,14 @@ This limits:
 
 Patients arrive fastest after normal business hours → staffing often mismatches reality.
 
-![Hospital_Analysis](5BFC51CB-C557-41C6-AD70-40BDE78E73AB_1_201_a.jpeg)
 
-![Hospital_Analysis](5BFC51CB-C557-41C6-AD70-40BDE78E73AB_1_201_a.jpeg)
+**Capacity Does Not Predict Wait Times**
+
+Larger hospitals are not always faster — internal process bottlenecks matter more.
+
+![Queensland_Hospitals](capacity_delay.jpeg)
+
+
+➡ Only ~20% of hospitals provide full performance metrics → comparisons limited.
+
 
