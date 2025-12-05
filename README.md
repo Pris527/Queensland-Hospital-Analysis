@@ -113,8 +113,11 @@ This limits:
 
 📊 **Key Insights (Visual Evidence in Dashboard)**
 
+
+
 **Demand Peaks Most Evenings (17:00–21:00)**
 
 Patients arrive fastest after normal business hours → staffing often mismatches reality.
 
 ![Hospital_Analysis](5BFC51CB-C557-41C6-AD70-40BDE78E73AB_1_201_a.jpeg)
+
