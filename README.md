@@ -121,3 +121,5 @@ Patients arrive fastest after normal business hours → staffing often mismatche
 
 ![Hospital_Analysis](5BFC51CB-C557-41C6-AD70-40BDE78E73AB_1_201_a.jpeg)
 
+![Hospital_Analysis](5BFC51CB-C557-41C6-AD70-40BDE78E73AB_1_201_a.jpeg)
+
